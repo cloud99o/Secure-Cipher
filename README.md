@@ -1,6 +1,6 @@
 # 🔐 Secure Cipher
 
-A production-grade, browser-based encryption tool built with React + Vite. Uses the **Web Crypto API** with **AES-256-GCM** — the same standard used by Signal, TLS, and government systems.
+A production-grade, browser-based encryption tool built with React + Vite. Uses the **Web Crypto API** with **AES-256-GCM** the same standard used by Signal, TLS, and government systems.
 
 ![AES-256-GCM](https://img.shields.io/badge/cipher-AES--256--GCM-a0b4ff?style=flat-square&labelColor=06080f)
 ![PBKDF2](https://img.shields.io/badge/key%20derivation-PBKDF2--SHA256-a0b4ff?style=flat-square&labelColor=06080f)
